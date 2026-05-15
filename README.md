@@ -1,4 +1,4 @@
-# The-Covid-19-Small-Dataset
+# The Covid-19 Small Dataset
 
 ## The commands that we used in this project :
 
